@@ -1,4 +1,9 @@
-# pihpsdr
+# pihpsdr with a UI refresh
+
+- Optimized for small touch screens
+
+
+---
 Raspberry Pi 3/4 standalone code for HPSDR
 
 Supports both the old and new ethernet protocols.
