@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=piHPSDR
+Comment=Start piHPSDR
+Exec=/usr/local/bin/pihpsdr
+TryExec=/usr/local/bin/pihpsdr
+Terminal=false
+Categories=HamRadio;

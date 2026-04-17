@@ -1,0 +1,50 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# piHPSDR binaries/bundles
+pihpsdr
+pihpsdr.app/
+hpsdrsim
+
+# Release staging
+release/
+
+# Dependency / swap / editor cruft
+*.swp
+*~
+.#*
+\#*\#
+
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Linux
+*.bak
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+.cursor/
+.claude/
+.zed/
+*.code-workspace
+
+# Logs / tmp
+*.log
+*.tmp
+tmp/
+
+# Compiled Python (just in case)
+__pycache__/
+*.pyc
